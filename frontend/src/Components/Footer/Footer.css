@@ -1,0 +1,14 @@
+.footer-bg{
+    background: linear-gradient(10deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: 'Ubuntu';
+}
+.footerlogo{
+    width: 25%;
+}
+
+.bi{
+    color:rgb(77, 75, 75);
+}
+.bi:hover{
+    color: rgb(0,112,173);
+}
